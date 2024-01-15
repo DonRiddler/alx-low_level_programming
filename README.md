@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ALX Cohort 9![image](https://user-images.githubusercontent.com/105258746/189962379-f8aca8d6-0a1b-4367-8360-af2dd481734e.png)
 
 ![Repo size](https://img.shields.io/github/repo-size/lordwill1/alx-low_level_programming)
@@ -29,3 +30,7 @@ Directory | Files
 [0x08-recursion](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x08-recursion)
 [0x09-static_libraries]()
 Process..
+=======
+# alx-low_level_programming
+Welcome to C programming repository. C is one of the most important and widely used of all programming languages. It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware.
+>>>>>>> origin/master
